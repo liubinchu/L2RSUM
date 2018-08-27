@@ -1,0 +1,9 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/M K_濠甸ülina> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/ K_Slovan_Bratislava> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/ tadi缁pod_ebraom> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Ruomberok> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2012_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2014_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:M K_濠甸ülina_matches> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category: K_Slovan_Bratislava_matches> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Slovak_Cup_Finals> .
